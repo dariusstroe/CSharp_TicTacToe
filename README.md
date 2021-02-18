@@ -1,1 +1,2 @@
-# CSharp_TicTacToe
+# C# TicTacToe  
+Play using mouse
